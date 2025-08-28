@@ -1,8 +1,8 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
+align-items: center;
+height: 100vh;
   background: #f5f7fa;
   font-family: Arial, sans-serif;
 }
@@ -33,13 +33,13 @@ body {
 
 .btn {
   height: 60px;
-  font-size: 1.2rem;
-  border: none;
+font-size: 1.2rem;
+border: none;
   border-radius: 10px;
   background: #daf4dc;
   color: white;
   cursor: pointer;
-  transition: background 0.3s;
+transition: background 0.3s;
 }
 
 .btn:hover {
@@ -47,14 +47,15 @@ body {
 }
 
 .equal {
-  grid-row: span 2;
+grid-row: span 2;
   background: #204021;
 }
 
 .equal:hover {
-  background: #ff9a029a;
+background: #ff9a029a;
 }
 
 .zero {
   grid-column: span 2;
+
 }
